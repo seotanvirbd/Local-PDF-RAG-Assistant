@@ -1,6 +1,6 @@
 # How I Built a Local RAG App for PDF Q&A | Streamlit | LLAMA 3.x | 2025
 
-![RAG Assistant with Chats](rag_assistant_with_chats.png)
+![RAG Assistant with Chats](local_rag_aasitant_chats.png)
 
 Welcome to my project repository! In this article, I’ll walk you through how I built a **Local RAG (Retrieval-Augmented Generation) App** for **PDF Q&A** using **Streamlit** and the **LLAMA 3.x** model. This app allows users to upload a PDF, convert it into embedding vectors locally, and ask questions about the document. The local LLAMA LLM model provides accurate answers based on the PDF content.
 
